@@ -2,8 +2,8 @@
 
 将图片转换为彩色/黑白字符画的Python工具，支持自定义字符集和输出尺寸。
 
- ![462941b60b844ba47b1477daa331add3](C:\Users\32588\Documents\xwechat_files\wxid_ipie4ybs4hon22_749d\temp\2025-04\RWTemp\8b3d8f98d2c8946a9fa3843de65e2d91\462941b60b844ba47b1477daa331add3.png)
-![063c78b62f70079552bd859bfa98fd12](C:\Users\32588\Documents\xwechat_files\wxid_ipie4ybs4hon22_749d\temp\2025-04\RWTemp\8b3d8f98d2c8946a9fa3843de65e2d91\063c78b62f70079552bd859bfa98fd12.png)（示例图片与效果对比)
+ ![mao](mao.png)
+（![maoart](maoart.png)示例图片与效果对比)
 
 ## 功能特性
 
@@ -65,15 +65,11 @@ python ascii_art.py demo/cat.jpg
 python ascii_art.py demo/cat.jpg -c " .:-=+*#%@@"
 ```
 
-![自定义效果](https://demo/demo-custom-chars.png)
-
 ### 黑白模式
 
 ```
 python ascii_art.py demo/cat.jpg --no-color -w 120
 ```
-
-![黑白效果](https://demo/demo-bw.png)
 
 ## 进阶技巧![c9ebebc84b18965f2e0b301439e41e20](C:\Users\32588\Documents\xwechat_files\wxid_ipie4ybs4hon22_749d\temp\2025-04\RWTemp\35b28fea2a699a7246f0eeabab1a6af2\c9ebebc84b18965f2e0b301439e41e20.png)
 
